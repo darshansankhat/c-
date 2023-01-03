@@ -1,3 +1,4 @@
+//WAP to check if a given character is vowel or consonant
 #include<iostream>
 using namespace std;
 main()
