@@ -1,3 +1,4 @@
+//WAP to generate cube of given 5 numbers and make an array of that generated cubes.
 #include<iostream>
 using namespace std;
 main()
