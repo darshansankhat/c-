@@ -1,3 +1,4 @@
+// WAP to find square root of given numbers from array elements.
 #include<iostream>
 #include<cmath>
 using namespace std;
