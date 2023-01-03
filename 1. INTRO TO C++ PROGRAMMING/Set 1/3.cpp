@@ -1,3 +1,4 @@
+//WAP to convert given string into toggle case.
 #include<iostream>
 #include<string.h>
 using namespace std;
