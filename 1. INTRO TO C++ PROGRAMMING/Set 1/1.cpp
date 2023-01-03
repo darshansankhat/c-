@@ -1,3 +1,4 @@
+//WAP to check given string is numeric or not.
 #include<iostream>
 using namespace std;
 main()
