@@ -1,3 +1,4 @@
+//WAP to illustrate the use of inline function by creating a function which prints a multiplication table of given number.
 #include<iostream>
 using namespace std;
 int fact(int a);
