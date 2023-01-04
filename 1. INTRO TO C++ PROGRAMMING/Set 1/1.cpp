@@ -4,22 +4,33 @@ using namespace std;
 main()
 {
 	char arr[100];
-	int i;
+	int i,count=0;
 	
 	cout<<"enter the string:";
 	cin>>arr;
 	
-// 	for(i=0;arr[i]!='\0';i++)
-//	{
-		if(arr[i]>='A' && arr[i]<='Z' || arr[i]>='a' && arr[i]<='z')
+ 	for(i=0;arr[i]!='\0';i++)
+	{
+		if(arr[i]>='0' && arr[i]<='9')
 		{
-			cout<<arr;
-			cout<<"    string is not numeric....!!";
+			//dcout<<arr;
+	
+			count=0;
 		}
-		else
+		else if (arr[i]>='A' && arr[i]<='z')
 		{
-			cout<<arr;
-			cout<<"    string is numeric....!!";
+		//	cout<<"sting is not numeric";
+			count=1;
 		}
-	//}
+		
+	}
+	if(count==0)
+	{
+		cout<<"    string is numeric....!!";	
+	}
+	else
+	{
+		cout<<"    string is not numeric....!!";
+	}
 }
+//
