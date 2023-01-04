@@ -1,3 +1,4 @@
+//WAP to swap elements of two integer arrays using user define function
 #include<iostream>
 using namespace std;
 void swap(int a[],int b[]);
