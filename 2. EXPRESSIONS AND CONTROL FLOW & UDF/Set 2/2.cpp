@@ -1,3 +1,4 @@
+//WAP to find factorial using recursion
 #include<iostream>
 using namespace std;
 int fact(int a);
