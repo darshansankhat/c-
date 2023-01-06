@@ -1,3 +1,4 @@
+//WAP to create a class to read and add two times
 #include<iostream>
 using namespace std;
 class time
