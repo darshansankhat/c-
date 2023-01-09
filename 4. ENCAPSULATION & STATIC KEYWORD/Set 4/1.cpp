@@ -1,3 +1,4 @@
+//WAP to create a class Employee with setter and getter. Which have fields like id, name, role, salary, experience, address, email and contact. Get 5 records.
 #include<iostream>
 using namespace std;
 class Employee 
