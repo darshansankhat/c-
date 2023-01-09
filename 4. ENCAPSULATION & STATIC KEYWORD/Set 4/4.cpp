@@ -1,3 +1,4 @@
+//WAP to create two class HighSchool and College with fields like id, stu_name, stu_roll_no, stu_standard, stu_age, stu_contact, stu_edu_institute_name and stu_address. Make suitable setter and getter with use of static data members.
 #include<iostream>
 using namespace std;
 class HighSchool
