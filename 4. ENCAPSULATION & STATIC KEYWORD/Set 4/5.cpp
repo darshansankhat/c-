@@ -1,3 +1,4 @@
+//WAP to create a class which have both static data member and static member function. That class gives details of all states in India.
 #include<iostream>
 using namespace std;
 class details
