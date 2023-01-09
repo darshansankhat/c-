@@ -1,3 +1,4 @@
+ WAP to create a class which Read and print Class, Student details using Two Classes. (Make two classes, create one classe's obj in another class.)
 #include<iostream>
 #include<string.h>
 using namespace std;
