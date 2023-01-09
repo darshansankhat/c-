@@ -1,3 +1,4 @@
+//WAP to create a class Hotel with fields like id, name, type, staff_size, room_size, establish_year, address, rating_type and website. Illustrate the use of encapsulation (strict encapsulation) with this keyword.
 #include<iostream>
 #include<string.h>
 using namespace std;
