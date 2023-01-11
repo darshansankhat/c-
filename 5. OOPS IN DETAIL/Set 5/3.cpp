@@ -1,3 +1,8 @@
+// WAP to make Supermarket Billing System.
+// Requirements:
+// (A) Verify User Id And Password
+// (B) User Input Item Number , Item Name , Quantity , Tax , Discount.
+// (C) Display All Record In Ascending order (by item Number)
 #include<iostream>
 using namespace std;
 class vr
