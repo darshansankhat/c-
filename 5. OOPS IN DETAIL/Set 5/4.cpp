@@ -1,3 +1,4 @@
+// WAP which perform Addition of members of two different classes using friend Function.
 #include<iostream>
 using namespace std;
 class add
