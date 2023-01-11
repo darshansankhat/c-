@@ -1,3 +1,4 @@
+// WAP to create a class for student to get and print details of N students. (with use of array of objects)
 #include<iostream>
 using namespace std;
 class student
