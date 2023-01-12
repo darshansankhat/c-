@@ -1,3 +1,4 @@
+//WAP to create a class which Set values of data members using default, parameterized and copy constructor.
 #include<iostream>
 using namespace std;
 class Flutter
