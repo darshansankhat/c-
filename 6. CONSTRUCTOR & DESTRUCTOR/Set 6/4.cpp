@@ -1,3 +1,4 @@
+//WAP to demonstrate example of destructors.
 #include<iostream>
 using namespace std;
 class Flutter
