@@ -1,3 +1,4 @@
+//WAP to demonstrate example of parameterized constructor.
 #include<iostream>
 using namespace std;
 class Add
