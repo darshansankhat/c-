@@ -1,3 +1,4 @@
+// WAP to demonstrate example of default constructor or no argument constructor.
 #include<iostream>
 using namespace std;
 class Flutter
