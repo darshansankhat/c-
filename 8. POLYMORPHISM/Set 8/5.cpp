@@ -1,3 +1,4 @@
+//WAP to create an Class Shape. Make two sub-class Circle and Triangle which implements a method from Shape class called getArea()
 #include<iostream>
 using namespace std;
 class shape
